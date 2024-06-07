@@ -1,0 +1,4 @@
+talker:
+  ros__parameters:
+    v: 3.0  #change accordingly
+    d: 2.0
